@@ -1,0 +1,1 @@
+SELECT * FROM WWI_FactSale WHERE `Customer Key` IS NOT NULL AND Package NOT IN ('Pair','Each');
