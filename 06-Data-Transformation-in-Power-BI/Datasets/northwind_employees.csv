@@ -1,0 +1,10 @@
+EmployeeID,Name,Title,ReportsTo
+1,"Davolio, Nancy",Sales Representative,2
+2,"Fuller, Andrew","Vice President, Sales",null
+3,"Leverling, Janet",Sales Representative,2
+4,"Peacock, Margaret",Sales Representative,2
+5,"Buchanan, Steven",Sales Manager,2
+6,"Suyama, Michael",Sales Representative,5
+7,"King, Robert",Sales Representative,5
+8,"Callahan, Laura",Inside Sales Coordinator,2
+9,"Dodsworth, Anne",Sales Representative,5

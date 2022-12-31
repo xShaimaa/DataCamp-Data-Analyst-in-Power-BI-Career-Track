@@ -1,0 +1,397 @@
+EmployeeID,RegionDescription,CompanyName,Year,Month,Total Quantity,Total Sales
+4,Eastern                                           ,Alfreds Futterkiste,1997,October,41,1208
+6,Western                                           ,Alfreds Futterkiste,1997,August,38,814.5
+3,Southern                                          ,Ana Trujillo Emparedados y helados,1997,August,18,479.75
+3,Southern                                          ,Ana Trujillo Emparedados y helados,1997,November,10,320
+1,Eastern                                           ,Antonio Moreno Taquería,1997,September,38,813.3649943
+7,Western                                           ,Antonio Moreno Taquería,1997,April,30,749.0624947
+7,Western                                           ,Antonio Moreno Taquería,1997,June,83,2082
+3,Southern                                          ,Antonio Moreno Taquería,1997,September,64,375.5
+4,Eastern                                           ,Antonio Moreno Taquería,1997,May,80,1940.849997
+3,Southern                                          ,Around the Horn,1997,December,103,1668.1
+1,Eastern                                           ,Around the Horn,1997,November,28,319.1999997
+4,Eastern                                           ,Around the Horn,1997,October,89,1640.999997
+1,Eastern                                           ,Around the Horn,1997,February,40,407.6999993
+1,Eastern                                           ,Around the Horn,1997,June,96,2142.9
+4,Eastern                                           ,Around the Horn,1997,November,15,227.9999992
+6,Western                                           ,B's Beverages,1997,July,10,493
+4,Eastern                                           ,B's Beverages,1997,June,26,477
+3,Southern                                          ,B's Beverages,1997,March,27,386.2
+6,Western                                           ,B's Beverages,1997,May,44,355.5
+2,Eastern                                           ,B's Beverages,1997,March,50,1328
+9,Northern                                          ,B's Beverages,1997,May,8,139.8
+3,Southern                                          ,Berglunds snabbköp,1997,February,84,1206.6
+1,Eastern                                           ,Berglunds snabbköp,1997,May,87,3192.65
+3,Southern                                          ,Berglunds snabbköp,1997,December,10,96.5
+1,Eastern                                           ,Berglunds snabbköp,1997,October,35,472.5
+5,Eastern                                           ,Berglunds snabbköp,1997,September,38,601.829999
+1,Eastern                                           ,Berglunds snabbköp,1997,November,61,1459
+9,Northern                                          ,Berglunds snabbköp,1997,September,27,3815.249994
+3,Southern                                          ,Berglunds snabbköp,1997,June,87,1501.084999
+1,Eastern                                           ,Berglunds snabbköp,1997,August,52,1503.6
+4,Eastern                                           ,Blauer See Delikatessen,1997,April,3,136.8
+9,Northern                                          ,Blauer See Delikatessen,1997,April,20,149
+8,Northern                                          ,Blauer See Delikatessen,1997,July,27,464
+3,Southern                                          ,Blauer See Delikatessen,1997,June,18,330
+3,Southern                                          ,Blondesddsl père et fils,1997,February,168,3832.719997
+6,Western                                           ,Blondesddsl père et fils,1997,June,30,520.4099996
+4,Eastern                                           ,Blondesddsl père et fils,1997,August,25,450
+4,Eastern                                           ,Blondesddsl père et fils,1997,June,50,593.7499995
+9,Northern                                          ,Blondesddsl père et fils,1997,June,63,1760.999989
+8,Northern                                          ,Blondesddsl père et fils,1997,September,12,660
+3,Southern                                          ,Bon app',1997,November,20,360
+4,Eastern                                           ,Bon app',1997,November,99,1948.5
+4,Eastern                                           ,Bon app',1997,April,110,2549.999982
+4,Eastern                                           ,Bon app',1997,March,53,1820.8
+1,Eastern                                           ,Bon app',1997,May,45,818.3999996
+3,Southern                                          ,Bon app',1997,October,51,1296
+5,Eastern                                           ,Bon app',1997,November,28,484.2624996
+2,Eastern                                           ,Bon app',1997,September,80,1930.399998
+3,Southern                                          ,Bottom-Dollar Markets,1997,January,65,802
+3,Southern                                          ,Bottom-Dollar Markets,1997,November,105,3118
+4,Eastern                                           ,Bottom-Dollar Markets,1997,January,130,1892.25
+3,Southern                                          ,Bottom-Dollar Markets,1997,April,80,851.1999993
+9,Northern                                          ,Bottom-Dollar Markets,1997,January,74,966.7999964
+4,Eastern                                           ,Bólido Comidas preparadas,1997,December,60,3026.85
+9,Northern                                          ,Cactus Comidas para llevar,1997,December,1,12.5
+8,Northern                                          ,Cactus Comidas para llevar,1997,April,19,225.5
+7,Western                                           ,Chop-suey Chinese,1997,November,70,1890.499999
+1,Eastern                                           ,Chop-suey Chinese,1997,November,83,2311.7
+6,Western                                           ,Chop-suey Chinese,1997,April,66,2314.199999
+4,Eastern                                           ,Comércio Mineiro,1997,April,30,912
+4,Eastern                                           ,Comércio Mineiro,1997,March,15,216
+8,Northern                                          ,Consolidated Holdings,1997,February,32,631.6
+2,Eastern                                           ,Consolidated Holdings,1997,March,22,156
+8,Northern                                          ,Die Wandernde Kuh,1997,August,50,588.9999995
+4,Eastern                                           ,Die Wandernde Kuh,1997,August,35,708.75
+8,Northern                                          ,Die Wandernde Kuh,1997,September,32,397.8
+7,Western                                           ,Die Wandernde Kuh,1997,April,105,1941.999993
+1,Eastern                                           ,Die Wandernde Kuh,1997,September,27,625.274999
+7,Western                                           ,Drachenblut Delikatessen,1997,December,20,420
+2,Eastern                                           ,Du monde entier,1997,September,9,63
+7,Western                                           ,Du monde entier,1997,July,19,424
+4,Eastern                                           ,Eastern Connection,1997,November,30,655
+7,Western                                           ,Eastern Connection,1997,May,39,796.35
+1,Eastern                                           ,Eastern Connection,1997,January,86,3063
+2,Eastern                                           ,Ernst Handel,1997,July,215,4725
+4,Eastern                                           ,Ernst Handel,1997,October,108,3436.443498
+4,Eastern                                           ,Ernst Handel,1997,January,286,5754.214981
+6,Western                                           ,Ernst Handel,1997,December,150,2285.999996
+8,Northern                                          ,Ernst Handel,1997,December,100,2158
+9,Northern                                          ,Ernst Handel,1997,December,16,344
+7,Western                                           ,Ernst Handel,1997,September,59,1536.799994
+8,Northern                                          ,Ernst Handel,1997,January,125,2713.5
+3,Southern                                          ,Ernst Handel,1997,February,170,1792
+3,Southern                                          ,Ernst Handel,1997,April,233,8623.45
+8,Northern                                          ,Ernst Handel,1997,June,39,550.5874961
+1,Eastern                                           ,Ernst Handel,1997,December,285,8665.674992
+7,Western                                           ,Ernst Handel,1997,August,164,5510.592461
+5,Eastern                                           ,Familia Arquibaldo,1997,August,85,1779.199999
+4,Eastern                                           ,Familia Arquibaldo,1997,October,22,287.8
+7,Western                                           ,Familia Arquibaldo,1997,April,37,525.2999963
+2,Eastern                                           ,Familia Arquibaldo,1997,January,68,224.8299999
+3,Southern                                          ,Familia Arquibaldo,1997,June,50,309.9999988
+1,Eastern                                           ,Folies gourmandes,1997,December,93,3687
+6,Western                                           ,Folies gourmandes,1997,March,42,756
+4,Eastern                                           ,Folies gourmandes,1997,August,102,4985.5
+8,Northern                                          ,Folies gourmandes,1997,January,51,1622.4
+3,Southern                                          ,Folies gourmandes,1997,December,66,616
+4,Eastern                                           ,Folk och fä HB,1997,December,52,868.75
+3,Southern                                          ,Folk och fä HB,1997,December,134,4337
+2,Eastern                                           ,Folk och fä HB,1997,June,60,2844.5
+8,Northern                                          ,Folk och fä HB,1997,February,25,176.1
+6,Western                                           ,Folk och fä HB,1997,October,75,2545
+8,Northern                                          ,Folk och fä HB,1997,May,98,2222.199999
+3,Southern                                          ,Folk och fä HB,1997,February,24,321.1199985
+1,Eastern                                           ,France restauration,1997,September,32,920.1
+1,Eastern                                           ,Franchi S.p.A.,1997,October,10,93.5
+2,Eastern                                           ,Franchi S.p.A.,1997,January,2,49.8
+3,Southern                                          ,Franchi S.p.A.,1997,November,9,88
+4,Eastern                                           ,Franchi S.p.A.,1997,December,1,18.4
+1,Eastern                                           ,Frankenversand,1997,October,72,1270.749999
+4,Eastern                                           ,Frankenversand,1997,September,192,2301.75
+6,Western                                           ,Frankenversand,1997,December,34,1829.756999
+5,Eastern                                           ,Frankenversand,1997,September,70,1423
+8,Northern                                          ,Frankenversand,1997,August,94,1336.949999
+8,Northern                                          ,Frankenversand,1997,June,35,1072.425
+8,Northern                                          ,Frankenversand,1997,March,50,1511.999999
+1,Eastern                                           ,Frankenversand,1997,September,50,1083.149998
+4,Eastern                                           ,Furia Bacalhau e Frutos do Mar,1997,May,100,1677.299994
+8,Northern                                          ,Furia Bacalhau e Frutos do Mar,1997,March,22,259.5049982
+4,Eastern                                           ,Furia Bacalhau e Frutos do Mar,1997,March,69,1609.279996
+1,Eastern                                           ,Furia Bacalhau e Frutos do Mar,1997,September,51,1288.387491
+1,Eastern                                           ,Furia Bacalhau e Frutos do Mar,1997,July,16,230.8499996
+1,Eastern                                           ,GROSELLA-Restaurante,1997,December,20,387.5
+4,Eastern                                           ,Galería del gastrónomo,1997,January,12,338.2
+3,Southern                                          ,Galería del gastrónomo,1997,June,5,155
+4,Eastern                                           ,Godos Cocina Típica,1997,August,29,2775.05
+7,Western                                           ,Godos Cocina Típica,1997,May,34,683.299999
+6,Western                                           ,Gourmet Lanchonetes,1997,January,34,1020
+1,Eastern                                           ,Gourmet Lanchonetes,1997,October,78,3424
+2,Eastern                                           ,Gourmet Lanchonetes,1997,November,65,1498.35
+4,Eastern                                           ,Gourmet Lanchonetes,1997,September,61,1119.935
+7,Western                                           ,Gourmet Lanchonetes,1997,December,20,223.9999992
+6,Western                                           ,Gourmet Lanchonetes,1997,December,23,722.4999949
+3,Southern                                          ,Great Lakes Food Market,1997,September,70,1287.399999
+6,Western                                           ,Great Lakes Food Market,1997,September,37,604.214999
+6,Western                                           ,Great Lakes Food Market,1997,May,20,392.1999999
+8,Northern                                          ,Great Lakes Food Market,1997,July,4,72
+1,Eastern                                           ,Great Lakes Food Market,1997,July,59,4806.999997
+4,Eastern                                           ,Great Lakes Food Market,1997,July,30,1402.49999
+3,Southern                                          ,HILARION-Abastos,1997,December,90,2341.363992
+9,Northern                                          ,HILARION-Abastos,1997,October,24,378
+4,Eastern                                           ,HILARION-Abastos,1997,August,110,2054
+4,Eastern                                           ,HILARION-Abastos,1997,July,48,353.1999999
+7,Western                                           ,HILARION-Abastos,1997,July,95,2285
+2,Eastern                                           ,HILARION-Abastos,1997,May,48,880.5
+7,Western                                           ,HILARION-Abastos,1997,March,126,3163.2
+1,Eastern                                           ,HILARION-Abastos,1997,March,46,1272
+8,Northern                                          ,HILARION-Abastos,1997,April,49,575
+8,Northern                                          ,HILARION-Abastos,1997,March,14,180.48
+4,Eastern                                           ,Hanari Carnes,1997,December,15,1442.5
+1,Eastern                                           ,Hanari Carnes,1997,October,50,862.5
+4,Eastern                                           ,Hanari Carnes,1997,August,35,1535
+2,Eastern                                           ,Hanari Carnes,1997,May,84,1946.519997
+8,Northern                                          ,Hanari Carnes,1997,December,15,236.25
+8,Northern                                          ,Hungry Coyote Import Store,1997,September,21,1701
+3,Southern                                          ,Hungry Coyote Import Store,1997,January,22,102.4
+4,Eastern                                           ,Hungry Coyote Import Store,1997,July,34,479.8
+3,Southern                                          ,Hungry Owl All-Night Grocers,1997,January,75,1441.375
+2,Eastern                                           ,Hungry Owl All-Night Grocers,1997,April,125,2381.049997
+6,Western                                           ,Hungry Owl All-Night Grocers,1997,April,90,2048.5
+9,Northern                                          ,Hungry Owl All-Night Grocers,1997,November,60,997
+3,Southern                                          ,Hungry Owl All-Night Grocers,1997,October,33,1233.48
+6,Western                                           ,Hungry Owl All-Night Grocers,1997,October,97,2864.49998
+9,Northern                                          ,Hungry Owl All-Night Grocers,1997,September,66,4960.9
+7,Western                                           ,Hungry Owl All-Night Grocers,1997,September,52,562.5999979
+9,Northern                                          ,Hungry Owl All-Night Grocers,1997,August,98,1446
+1,Eastern                                           ,Hungry Owl All-Night Grocers,1997,June,103,2518.999991
+1,Eastern                                           ,Island Trading,1997,March,24,230.4
+4,Eastern                                           ,Island Trading,1997,November,31,1080
+4,Eastern                                           ,Island Trading,1997,September,5,45
+4,Eastern                                           ,Island Trading,1997,August,50,758.5
+2,Eastern                                           ,Island Trading,1997,December,12,446.6
+1,Eastern                                           ,Königlich Essen,1997,May,39,469.1099996
+9,Northern                                          ,Königlich Essen,1997,April,32,415.7999993
+3,Southern                                          ,Königlich Essen,1997,March,23,717.6
+1,Eastern                                           ,Königlich Essen,1997,October,116,3463
+1,Eastern                                           ,Königlich Essen,1997,August,47,903.5999998
+2,Eastern                                           ,Königlich Essen,1997,February,36,1584
+8,Northern                                          ,Königlich Essen,1997,February,61,557.5999961
+9,Northern                                          ,Königlich Essen,1997,December,65,1553.499999
+8,Northern                                          ,LILA-Supermercado,1997,May,100,1504.499989
+4,Eastern                                           ,LILA-Supermercado,1997,April,45,1412
+2,Eastern                                           ,LILA-Supermercado,1997,December,50,720
+1,Eastern                                           ,LILA-Supermercado,1997,February,128,1538.7
+4,Eastern                                           ,LINO-Delicateses,1997,March,130,1583.999997
+8,Northern                                          ,LINO-Delicateses,1997,November,120,1850
+3,Southern                                          ,LINO-Delicateses,1997,October,76,805.425
+1,Eastern                                           ,LINO-Delicateses,1997,January,50,400
+3,Southern                                          ,LINO-Delicateses,1997,August,101,2720.05
+6,Western                                           ,La maison d'Asie,1997,January,30,360
+8,Northern                                          ,La maison d'Asie,1997,August,8,55.79999991
+3,Southern                                          ,La maison d'Asie,1997,January,78,2123.2
+4,Eastern                                           ,La maison d'Asie,1997,April,35,608.399999
+6,Western                                           ,La maison d'Asie,1997,April,20,523.2599996
+2,Eastern                                           ,La maison d'Asie,1997,December,35,2622.759998
+8,Northern                                          ,La maison d'Asie,1997,July,21,299.25
+4,Eastern                                           ,La maison d'Asie,1997,February,50,331.1999988
+2,Eastern                                           ,Laughing Bacchus Wine Cellars,1997,August,10,57.5
+3,Southern                                          ,Laughing Bacchus Wine Cellars,1997,April,35,278
+8,Northern                                          ,Lazy K Kountry Store,1997,May,10,210
+1,Eastern                                           ,Lazy K Kountry Store,1997,March,10,147
+9,Northern                                          ,Lehmanns Marktstand,1997,June,50,1152.5
+3,Southern                                          ,Lehmanns Marktstand,1997,May,100,1645
+8,Northern                                          ,Lehmanns Marktstand,1997,May,30,465.6999992
+4,Eastern                                           ,Lehmanns Marktstand,1997,April,109,2318.239995
+7,Western                                           ,Lehmanns Marktstand,1997,July,45,1994.399993
+3,Southern                                          ,Lehmanns Marktstand,1997,December,43,3603.22
+7,Western                                           ,Lehmanns Marktstand,1997,April,64,1380.6
+3,Southern                                          ,Lehmanns Marktstand,1997,July,30,516.4674996
+6,Western                                           ,Let's Stop N Shop,1997,November,22,536.3999991
+8,Northern                                          ,Let's Stop N Shop,1997,October,55,844.2525
+1,Eastern                                           ,Let's Stop N Shop,1997,June,31,317.75
+4,Eastern                                           ,Lonesome Pine Restaurant,1997,May,14,417.2
+1,Eastern                                           ,Lonesome Pine Restaurant,1997,September,31,1295
+3,Southern                                          ,Lonesome Pine Restaurant,1997,September,10,125
+6,Western                                           ,Magazzini Alimentari Riuniti,1997,November,3,55.2
+2,Eastern                                           ,Magazzini Alimentari Riuniti,1997,January,100,1591.249999
+8,Northern                                          ,Magazzini Alimentari Riuniti,1997,August,65,1326.224999
+8,Northern                                          ,Magazzini Alimentari Riuniti,1997,March,40,235.2
+4,Eastern                                           ,Magazzini Alimentari Riuniti,1997,December,62,1487.999994
+5,Eastern                                           ,Maison Dewey,1997,May,44,946
+4,Eastern                                           ,Maison Dewey,1997,December,82,2917
+5,Eastern                                           ,Maison Dewey,1997,August,35,1434
+3,Southern                                          ,Morgenstern Gesundkost,1997,December,40,1335
+3,Southern                                          ,Morgenstern Gesundkost,1997,October,12,114
+5,Eastern                                           ,Morgenstern Gesundkost,1997,June,58,2147.4
+7,Western                                           ,Mère Paillarde,1997,January,139,9194.559966
+3,Southern                                          ,Mère Paillarde,1997,April,3,147.9
+3,Southern                                          ,Mère Paillarde,1997,August,82,1260
+1,Eastern                                           ,Mère Paillarde,1997,August,105,2697.5
+1,Eastern                                           ,Mère Paillarde,1997,July,135,4109.699997
+4,Eastern                                           ,Mère Paillarde,1997,July,80,1100.999999
+6,Western                                           ,Mère Paillarde,1997,February,67,1078
+8,Northern                                          ,Mère Paillarde,1997,October,21,638.5
+3,Southern                                          ,Mère Paillarde,1997,June,75,2465.249998
+8,Northern                                          ,Mère Paillarde,1997,June,43,639.8999989
+2,Eastern                                           ,North/South,1997,November,11,252
+3,Southern                                          ,North/South,1997,April,16,352
+7,Western                                           ,Océano Atlántico Ltda.,1997,May,2,110
+3,Southern                                          ,Océano Atlántico Ltda.,1997,January,24,319.2
+8,Northern                                          ,Old World Delicatessen,1997,October,52,1893
+1,Eastern                                           ,Old World Delicatessen,1997,September,110,1261.875
+3,Southern                                          ,Old World Delicatessen,1997,July,54,565.5
+3,Southern                                          ,Old World Delicatessen,1997,February,50,1755
+4,Eastern                                           ,Ottilies Käseladen,1997,May,80,1728.524999
+1,Eastern                                           ,Ottilies Käseladen,1997,April,20,240
+4,Eastern                                           ,Ottilies Käseladen,1997,December,115,2310
+3,Southern                                          ,Ottilies Käseladen,1997,September,90,1768
+2,Eastern                                           ,Ottilies Käseladen,1997,January,60,1194
+4,Eastern                                           ,Ottilies Käseladen,1997,June,54,1013.744999
+2,Eastern                                           ,Pericles Comidas clásicas,1997,April,57,816.3
+5,Eastern                                           ,Pericles Comidas clásicas,1997,March,61,1249.1
+4,Eastern                                           ,Piccolo und mehr,1997,January,35,651
+3,Southern                                          ,Piccolo und mehr,1997,May,135,4180
+6,Western                                           ,Piccolo und mehr,1997,March,33,439.2
+6,Western                                           ,Piccolo und mehr,1997,November,82,1912.85
+2,Eastern                                           ,Piccolo und mehr,1997,September,45,1404.449997
+7,Western                                           ,Piccolo und mehr,1997,July,67,718.0799988
+3,Southern                                          ,Princesa Isabel Vinhos,1997,February,28,851.2
+5,Eastern                                           ,Princesa Isabel Vinhos,1997,March,56,558
+5,Eastern                                           ,QUICK-Stop,1997,May,203,3554.274975
+3,Southern                                          ,QUICK-Stop,1997,May,165,10191.7
+7,Western                                           ,QUICK-Stop,1997,May,80,1502.999998
+4,Eastern                                           ,QUICK-Stop,1997,January,146,1814.8
+2,Eastern                                           ,QUICK-Stop,1997,April,286,9921.299973
+1,Eastern                                           ,QUICK-Stop,1997,December,90,731.4999994
+3,Southern                                          ,QUICK-Stop,1997,December,80,1515.599997
+9,Northern                                          ,QUICK-Stop,1997,November,92,4529.8
+5,Eastern                                           ,QUICK-Stop,1997,October,50,923.8749993
+8,Northern                                          ,QUICK-Stop,1997,October,165,4825
+2,Eastern                                           ,QUICK-Stop,1997,October,182,10164.8
+4,Eastern                                           ,QUICK-Stop,1997,September,255,4464.599997
+4,Eastern                                           ,QUICK-Stop,1997,February,238,3849.659994
+2,Eastern                                           ,QUICK-Stop,1997,July,140,3119.999988
+8,Northern                                          ,Que Delícia,1997,January,59,1194.269997
+6,Western                                           ,Que Delícia,1997,December,21,314.7599988
+8,Northern                                          ,Que Delícia,1997,October,29,550
+4,Eastern                                           ,Que Delícia,1997,August,50,636
+1,Eastern                                           ,Que Delícia,1997,July,46,807.38
+4,Eastern                                           ,Queen Cozinha,1997,November,48,1296.75
+2,Eastern                                           ,Queen Cozinha,1997,March,59,889.7
+6,Western                                           ,Queen Cozinha,1997,October,65,595.5
+7,Western                                           ,Queen Cozinha,1997,September,84,1227.019999
+6,Western                                           ,Queen Cozinha,1997,August,95,2761.937498
+8,Northern                                          ,Queen Cozinha,1997,December,87,1531.079994
+7,Western                                           ,Queen Cozinha,1997,January,89,1830.779997
+4,Eastern                                           ,Rancho grande,1997,October,22,706
+4,Eastern                                           ,Rancho grande,1997,February,26,443.4
+1,Eastern                                           ,Rattlesnake Canyon Grocery,1997,January,168,3868.6
+5,Eastern                                           ,Rattlesnake Canyon Grocery,1997,December,53,507
+3,Southern                                          ,Rattlesnake Canyon Grocery,1997,March,148,10495.6
+1,Eastern                                           ,Rattlesnake Canyon Grocery,1997,July,59,2388.5
+5,Eastern                                           ,Rattlesnake Canyon Grocery,1997,June,65,889.9999987
+4,Eastern                                           ,Rattlesnake Canyon Grocery,1997,June,47,1234.049999
+7,Western                                           ,Reggiani Caseifici,1997,January,20,192
+1,Eastern                                           ,Reggiani Caseifici,1997,June,30,488.6999992
+2,Eastern                                           ,Reggiani Caseifici,1997,November,40,1624.499999
+1,Eastern                                           ,Reggiani Caseifici,1997,September,20,154.3999994
+9,Northern                                          ,Reggiani Caseifici,1997,July,4,23.79999983
+8,Northern                                          ,Reggiani Caseifici,1997,February,18,517.4399997
+2,Eastern                                           ,Ricardo Adocicados,1997,June,95,965
+8,Northern                                          ,Ricardo Adocicados,1997,March,64,1472
+5,Eastern                                           ,Ricardo Adocicados,1997,August,30,372.3749996
+4,Eastern                                           ,Ricardo Adocicados,1997,August,38,559.9999993
+4,Eastern                                           ,Ricardo Adocicados,1997,February,77,914.4
+1,Eastern                                           ,Richter Supermarkt,1997,May,86,1823.8
+4,Eastern                                           ,Richter Supermarkt,1997,January,80,2097.599998
+3,Southern                                          ,Richter Supermarkt,1997,November,197,3276.083999
+7,Western                                           ,Richter Supermarkt,1997,September,46,4666.94
+7,Western                                           ,Santé Gourmet,1997,April,13,200
+7,Western                                           ,Santé Gourmet,1997,August,8,500
+6,Western                                           ,Save-a-lot Markets,1997,June,143,2944.399989
+6,Western                                           ,Save-a-lot Markets,1997,April,72,4707.54
+6,Western                                           ,Save-a-lot Markets,1997,November,91,3082
+3,Southern                                          ,Save-a-lot Markets,1997,November,112,2196
+8,Northern                                          ,Save-a-lot Markets,1997,October,140,1570
+1,Eastern                                           ,Save-a-lot Markets,1997,October,182,2827.9
+5,Eastern                                           ,Save-a-lot Markets,1997,October,311,6657.45
+3,Southern                                          ,Save-a-lot Markets,1997,October,117,1638.399994
+7,Western                                           ,Save-a-lot Markets,1997,September,280,5256.5
+2,Eastern                                           ,Save-a-lot Markets,1997,September,204,4371.6
+8,Northern                                          ,Save-a-lot Markets,1997,August,50,1185.749997
+1,Eastern                                           ,Save-a-lot Markets,1997,July,263,6375
+5,Eastern                                           ,Save-a-lot Markets,1997,July,213,6475.4
+8,Northern                                          ,Save-a-lot Markets,1997,July,73,1483
+8,Northern                                          ,Save-a-lot Markets,1997,February,115,2018.499999
+4,Eastern                                           ,Save-a-lot Markets,1997,February,208,4924.134965
+3,Southern                                          ,Seven Seas Imports,1997,May,84,1792.799995
+7,Western                                           ,Seven Seas Imports,1997,May,64,2444.309996
+1,Eastern                                           ,Seven Seas Imports,1997,December,67,1468.934998
+6,Western                                           ,Seven Seas Imports,1997,December,64,2278.4
+8,Northern                                          ,Seven Seas Imports,1997,March,98,1036.8
+2,Eastern                                           ,Simons bistro,1997,June,24,835.2
+4,Eastern                                           ,Simons bistro,1997,December,120,2942.8125
+4,Eastern                                           ,Simons bistro,1997,January,123,11188.4
+2,Eastern                                           ,Simons bistro,1997,September,30,570
+7,Western                                           ,Simons bistro,1997,August,50,695.9999974
+3,Southern                                          ,Split Rail Beer & Ale,1997,January,50,485
+8,Northern                                          ,Split Rail Beer & Ale,1997,November,67,1989.999993
+2,Eastern                                           ,Spécialités du monde,1997,November,3,52.35
+4,Eastern                                           ,Suprêmes délices,1997,December,2,28
+9,Northern                                          ,Suprêmes délices,1997,March,137,1505.179989
+5,Eastern                                           ,Suprêmes délices,1997,March,71,713.3
+7,Western                                           ,Suprêmes délices,1997,February,145,3891
+2,Eastern                                           ,The Big Cheese,1997,December,20,2775
+6,Western                                           ,The Big Cheese,1997,October,9,180.4
+7,Western                                           ,The Cracker Box,1997,December,9,228
+4,Eastern                                           ,The Cracker Box,1997,August,26,1393.24
+3,Southern                                          ,Toms Spezialitäten,1997,May,24,240.1
+3,Southern                                          ,Toms Spezialitäten,1997,February,50,453.9999983
+6,Western                                           ,Toms Spezialitäten,1997,February,50,246.2399996
+4,Eastern                                           ,Toms Spezialitäten,1997,July,28,1064
+4,Eastern                                           ,Tortuga Restaurante,1997,April,29,4150.05
+2,Eastern                                           ,Tortuga Restaurante,1997,September,30,534.85
+3,Southern                                          ,Tortuga Restaurante,1997,June,51,838.45
+7,Western                                           ,Tradição Hipermercados,1997,April,20,189.9999999
+4,Eastern                                           ,Tradição Hipermercados,1997,July,50,1130.399996
+9,Northern                                          ,Trail's Head Gourmet Provisioners,1997,June,48,569
+4,Eastern                                           ,Trail's Head Gourmet Provisioners,1997,June,32,764.3
+3,Southern                                          ,Vaffeljernet,1997,December,80,1684.275
+6,Western                                           ,Vaffeljernet,1997,November,50,735.9999973
+4,Eastern                                           ,Vaffeljernet,1997,October,92,3160.599995
+8,Northern                                          ,Vaffeljernet,1997,July,5,48.75
+1,Eastern                                           ,Vaffeljernet,1997,March,118,2517.999997
+1,Eastern                                           ,Vaffeljernet,1997,July,74,812.5
+1,Eastern                                           ,Victuailles en stock,1997,May,80,2812
+3,Southern                                          ,Victuailles en stock,1997,December,37,439.6
+8,Northern                                          ,Victuailles en stock,1997,February,26,425.1199984
+2,Eastern                                           ,Victuailles en stock,1997,March,20,471.1999996
+4,Eastern                                           ,Victuailles en stock,1997,February,76,1659.2
+2,Eastern                                           ,Vins et alcools Chevalier,1997,November,16,139.8
+3,Southern                                          ,Vins et alcools Chevalier,1997,November,24,240
+2,Eastern                                           ,Wartian Herkku,1997,May,89,1546.3
+8,Northern                                          ,Wartian Herkku,1997,February,140,3077
+4,Eastern                                           ,Wartian Herkku,1997,May,48,1151.399992
+2,Eastern                                           ,Wartian Herkku,1997,December,58,975.8799977
+8,Northern                                          ,Wartian Herkku,1997,January,70,1054.799999
+9,Northern                                          ,Wartian Herkku,1997,November,70,1590.562489
+4,Eastern                                           ,Wartian Herkku,1997,August,31,629.5
+2,Eastern                                           ,Wartian Herkku,1997,June,44,2237.499993
+4,Eastern                                           ,Wellington Importadora,1997,December,54,1193.009999
+3,Southern                                          ,Wellington Importadora,1997,January,50,1707.839997
+3,Southern                                          ,Wellington Importadora,1997,August,45,1371.799999
+7,Western                                           ,Wellington Importadora,1997,July,15,142.5
+4,Eastern                                           ,White Clover Markets,1997,April,59,1388.5
+4,Eastern                                           ,White Clover Markets,1997,November,94,1415.999995
+8,Northern                                          ,White Clover Markets,1997,October,38,996
+3,Southern                                          ,White Clover Markets,1997,October,126,2539.64999
+8,Northern                                          ,White Clover Markets,1997,July,59,1180.879996
+7,Western                                           ,White Clover Markets,1997,March,65,668.7999995
+1,Eastern                                           ,White Clover Markets,1997,March,77,956.6749933
+7,Western                                           ,Wilman Kala,1997,October,34,642
+2,Eastern                                           ,Wilman Kala,1997,September,15,412.35
+2,Eastern                                           ,Wilman Kala,1997,July,5,120
+1,Eastern                                           ,Wolski  Zajazd,1997,December,28,399.85
+6,Western                                           ,Wolski  Zajazd,1997,July,31,808

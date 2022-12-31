@@ -1,0 +1,263 @@
+EmployeeID,RegionDescription,Company Name,Year,Month,Total Quantity,Total Sales
+1,Eastern                                           ,Alfreds Futterkiste,1998,March,18,471.1999997
+1,Eastern                                           ,Alfreds Futterkiste,1998,January,17,845.7999999
+3,Southern                                          ,Alfreds Futterkiste,1998,April,60,933.4999996
+4,Eastern                                           ,Ana Trujillo Emparedados y helados,1998,March,29,514.4
+3,Southern                                          ,Antonio Moreno Taquería,1998,January,40,660
+4,Eastern                                           ,Around the Horn,1998,February,19,282
+9,Northern                                          ,Around the Horn,1998,April,31,491.5
+9,Northern                                          ,Around the Horn,1998,March,100,4441.249997
+4,Eastern                                           ,Around the Horn,1998,March,24,390
+3,Southern                                          ,B's Beverages,1998,March,4,220
+1,Eastern                                           ,B's Beverages,1998,April,34,1500
+4,Eastern                                           ,B's Beverages,1998,March,51,711
+9,Northern                                          ,Berglunds snabbköp,1998,January,92,1064.5
+4,Eastern                                           ,Berglunds snabbköp,1998,February,61,709.5499997
+8,Northern                                          ,Berglunds snabbköp,1998,January,75,2048.2125
+5,Eastern                                           ,Berglunds snabbköp,1998,February,67,1096.2
+3,Southern                                          ,Berglunds snabbköp,1998,March,56,1835.699997
+9,Northern                                          ,Blauer See Delikatessen,1998,January,10,625
+6,Western                                           ,Blauer See Delikatessen,1998,March,34,677
+9,Northern                                          ,Blauer See Delikatessen,1998,April,28,858
+6,Western                                           ,Blondesddsl père et fils,1998,January,50,730
+7,Western                                           ,Bon app',1998,February,41,917
+8,Northern                                          ,Bon app',1998,March,108,2148.629998
+9,Northern                                          ,Bon app',1998,February,78,1979.229998
+4,Eastern                                           ,Bon app',1998,May,50,792.75
+1,Eastern                                           ,Bon app',1998,January,36,843
+2,Eastern                                           ,Bottom-Dollar Markets,1998,March,137,5436
+1,Eastern                                           ,Bottom-Dollar Markets,1998,March,26,717.5
+1,Eastern                                           ,Bottom-Dollar Markets,1998,April,51,877.725
+3,Southern                                          ,Bottom-Dollar Markets,1998,March,85,1447.5
+6,Western                                           ,Bottom-Dollar Markets,1998,April,39,1309.5
+7,Western                                           ,Bottom-Dollar Markets,1998,April,42,525
+6,Western                                           ,Bottom-Dollar Markets,1998,March,41,1025.325
+9,Northern                                          ,Bólido Comidas preparadas,1998,March,40,223.9999992
+8,Northern                                          ,Cactus Comidas para llevar,1998,April,30,305
+4,Eastern                                           ,Cactus Comidas para llevar,1998,February,10,150
+2,Eastern                                           ,Cactus Comidas para llevar,1998,January,27,477
+7,Western                                           ,Cactus Comidas para llevar,1998,March,28,644.8
+4,Eastern                                           ,Chop-suey Chinese,1998,March,32,1098.459994
+4,Eastern                                           ,Chop-suey Chinese,1998,April,32,1286.8
+3,Southern                                          ,Chop-suey Chinese,1998,April,60,1772.999998
+1,Eastern                                           ,Comércio Mineiro,1998,March,9,108
+2,Eastern                                           ,Comércio Mineiro,1998,April,19,405.75
+7,Western                                           ,Consolidated Holdings,1998,January,33,931.5
+8,Northern                                          ,Die Wandernde Kuh,1998,April,53,1485.799999
+1,Eastern                                           ,Drachenblut Delikatessen,1998,May,9,86.85
+1,Eastern                                           ,Drachenblut Delikatessen,1998,January,32,1030.76
+8,Northern                                          ,Drachenblut Delikatessen,1998,April,37,1692
+7,Western                                           ,Du monde entier,1998,February,39,860.1
+7,Western                                           ,Eastern Connection,1998,April,55,817.875
+8,Northern                                          ,Eastern Connection,1998,April,125,3740
+8,Northern                                          ,Eastern Connection,1998,March,86,2772
+4,Eastern                                           ,Eastern Connection,1998,April,113,1966.81
+7,Western                                           ,Ernst Handel,1998,April,181,4680.899997
+7,Western                                           ,Ernst Handel,1998,January,172,4705.5
+4,Eastern                                           ,Ernst Handel,1998,May,200,5218
+2,Eastern                                           ,Ernst Handel,1998,April,256,4288.849974
+3,Southern                                          ,Ernst Handel,1998,February,346,6379.4
+3,Southern                                          ,Ernst Handel,1998,January,165,2966.499979
+9,Northern                                          ,Ernst Handel,1998,April,165,6750
+1,Eastern                                           ,Ernst Handel,1998,March,64,1408
+8,Northern                                          ,Ernst Handel,1998,March,207,4813.5
+7,Western                                           ,Folk och fä HB,1998,April,85,4895.4375
+4,Eastern                                           ,Folk och fä HB,1998,March,40,247.9999991
+7,Western                                           ,Folk och fä HB,1998,February,110,1499.999994
+2,Eastern                                           ,Folk och fä HB,1998,April,116,2769
+8,Northern                                          ,Folk och fä HB,1998,April,50,809.9999987
+1,Eastern                                           ,Folk och fä HB,1998,February,36,863.4299939
+8,Northern                                          ,Folk och fä HB,1998,March,102,2307.4
+8,Northern                                          ,Folk och fä HB,1998,January,21,250.8
+2,Eastern                                           ,France restauration,1998,March,14,1733.06
+3,Southern                                          ,France restauration,1998,January,23,519
+2,Eastern                                           ,Franchi S.p.A.,1998,April,14,266
+4,Eastern                                           ,Franchi S.p.A.,1998,April,18,1030
+1,Eastern                                           ,Frankenversand,1998,April,146,2825.299998
+6,Western                                           ,Frankenversand,1998,March,124,1174.75
+1,Eastern                                           ,Frankenversand,1998,January,105,1078.6875
+9,Northern                                          ,Furia Bacalhau e Frutos do Mar,1998,March,2,57.79999959
+1,Eastern                                           ,Galería del gastrónomo,1998,March,10,137.5
+8,Northern                                          ,Galería del gastrónomo,1998,February,5,70
+7,Western                                           ,Godos Cocina Típica,1998,April,4,60
+3,Southern                                          ,Godos Cocina Típica,1998,March,53,2362.25
+3,Southern                                          ,Godos Cocina Típica,1998,February,37,858
+5,Eastern                                           ,Godos Cocina Típica,1998,February,76,2368.459998
+2,Eastern                                           ,Godos Cocina Típica,1998,April,39,616.5
+1,Eastern                                           ,Godos Cocina Típica,1998,February,38,605
+3,Southern                                          ,Gourmet Lanchonetes,1998,April,14,273.599999
+6,Western                                           ,Gourmet Lanchonetes,1998,March,20,131.7499991
+3,Southern                                          ,Great Lakes Food Market,1998,March,30,455.9999983
+3,Southern                                          ,Great Lakes Food Market,1998,April,10,329.685
+4,Eastern                                           ,Great Lakes Food Market,1998,April,35,710
+4,Eastern                                           ,Great Lakes Food Market,1998,January,50,8446.449993
+7,Western                                           ,HILARION-Abastos,1998,April,70,1727.5
+1,Eastern                                           ,HILARION-Abastos,1998,March,20,912
+8,Northern                                          ,HILARION-Abastos,1998,March,78,1762.7
+3,Southern                                          ,HILARION-Abastos,1998,March,34,265.35
+4,Eastern                                           ,HILARION-Abastos,1998,February,92,1375.649997
+9,Northern                                          ,Hanari Carnes,1998,April,65,1402
+1,Eastern                                           ,Hanari Carnes,1998,March,60,15810
+3,Southern                                          ,Hanari Carnes,1998,March,37,475.1499967
+3,Southern                                          ,Hanari Carnes,1998,April,40,1331.999995
+1,Eastern                                           ,Hanari Carnes,1998,February,145,3127.5
+5,Eastern                                           ,Hanari Carnes,1998,March,50,742.5
+3,Southern                                          ,Hanari Carnes,1998,February,81,932.05
+3,Southern                                          ,Hungry Owl All-Night Grocers,1998,February,116,10835.24
+2,Eastern                                           ,Hungry Owl All-Night Grocers,1998,March,79,2023.379997
+2,Eastern                                           ,Hungry Owl All-Night Grocers,1998,February,100,6200.55
+3,Southern                                          ,Hungry Owl All-Night Grocers,1998,April,100,1342.949998
+9,Northern                                          ,Island Trading,1998,January,61,1764
+6,Western                                           ,Island Trading,1998,March,32,920.6
+3,Southern                                          ,Königlich Essen,1998,January,155,10952.84498
+2,Eastern                                           ,Königlich Essen,1998,April,59,2160
+9,Northern                                          ,Königlich Essen,1998,January,67,967.8189966
+9,Northern                                          ,Königlich Essen,1998,February,119,5502.11
+8,Northern                                          ,LILA-Supermercado,1998,May,24,189.42
+8,Northern                                          ,LILA-Supermercado,1998,April,90,1885
+1,Eastern                                           ,LILA-Supermercado,1998,May,25,484.4999996
+5,Eastern                                           ,LILA-Supermercado,1998,February,8,122.3999991
+5,Eastern                                           ,LILA-Supermercado,1998,January,90,2825.999996
+3,Southern                                          ,LINO-Delicateses,1998,January,79,1938.375
+8,Northern                                          ,LINO-Delicateses,1998,January,63,852
+4,Eastern                                           ,LINO-Delicateses,1998,January,16,211.1999992
+1,Eastern                                           ,LINO-Delicateses,1998,April,132,3090
+2,Eastern                                           ,LINO-Delicateses,1998,April,28,243.1799996
+5,Eastern                                           ,LINO-Delicateses,1998,March,107,1659.53499
+2,Eastern                                           ,LINO-Delicateses,1998,March,68,1122.8
+4,Eastern                                           ,La corne d'abondance,1998,March,43,1051.5
+6,Western                                           ,La corne d'abondance,1998,March,21,291.55
+2,Eastern                                           ,La corne d'abondance,1998,January,19,649
+7,Western                                           ,La maison d'Asie,1998,March,44,748.7999972
+2,Eastern                                           ,La maison d'Asie,1998,January,32,475.1099986
+7,Western                                           ,La maison d'Asie,1998,April,10,35.99999987
+2,Eastern                                           ,Laughing Bacchus Wine Cellars,1998,January,17,187
+2,Eastern                                           ,Lehmanns Marktstand,1998,May,110,1629.97499
+7,Western                                           ,Lehmanns Marktstand,1998,February,15,368.9324997
+8,Northern                                          ,Lehmanns Marktstand,1998,January,33,581
+3,Southern                                          ,Lehmanns Marktstand,1998,March,20,500
+4,Eastern                                           ,Let's Stop N Shop,1998,February,73,1378.069999
+6,Western                                           ,Lonesome Pine Restaurant,1998,February,3,98.4
+4,Eastern                                           ,Lonesome Pine Restaurant,1998,April,35,1575
+8,Northern                                          ,Lonesome Pine Restaurant,1998,February,8,36
+7,Western                                           ,Magazzini Alimentari Riuniti,1998,January,40,833
+2,Eastern                                           ,Magazzini Alimentari Riuniti,1998,March,50,637.4999955
+1,Eastern                                           ,Magazzini Alimentari Riuniti,1998,March,5,110
+4,Eastern                                           ,Maison Dewey,1998,February,40,2089.999998
+3,Southern                                          ,Maison Dewey,1998,April,12,295.38
+9,Northern                                          ,Maison Dewey,1998,March,76,1303.194992
+7,Western                                           ,Maison Dewey,1998,February,31,750.5
+4,Eastern                                           ,Morgenstern Gesundkost,1998,March,30,245
+3,Southern                                          ,North/South,1998,April,3,45
+4,Eastern                                           ,Océano Atlántico Ltda.,1998,February,5,30
+7,Western                                           ,Océano Atlántico Ltda.,1998,March,31,781
+8,Northern                                          ,Océano Atlántico Ltda.,1998,March,70,2220
+8,Northern                                          ,Old World Delicatessen,1998,April,33,539.3999998
+6,Western                                           ,Old World Delicatessen,1998,March,16,848
+3,Southern                                          ,Old World Delicatessen,1998,January,103,2227.887498
+2,Eastern                                           ,Old World Delicatessen,1998,January,70,1410.99999
+6,Western                                           ,Ottilies Käseladen,1998,January,38,906.9299985
+6,Western                                           ,Ottilies Käseladen,1998,April,56,1197.949999
+2,Eastern                                           ,Ottilies Käseladen,1998,April,24,632.3999956
+2,Eastern                                           ,Pericles Comidas clásicas,1998,May,30,300
+1,Eastern                                           ,Pericles Comidas clásicas,1998,April,24,1196
+8,Northern                                          ,Piccolo und mehr,1998,January,35,735
+2,Eastern                                           ,Piccolo und mehr,1998,April,80,3054.999991
+8,Northern                                          ,Princesa Isabel Vinhos,1998,April,54,2633.9
+8,Northern                                          ,QUICK-Stop,1998,March,195,3584
+3,Southern                                          ,QUICK-Stop,1998,April,168,6306.24
+4,Eastern                                           ,QUICK-Stop,1998,April,40,560
+1,Eastern                                           ,QUICK-Stop,1998,April,160,2295.999991
+3,Southern                                          ,QUICK-Stop,1998,March,128,2731.875
+4,Eastern                                           ,QUICK-Stop,1998,February,20,1538.999999
+2,Eastern                                           ,QUICK-Stop,1998,February,140,16387.49999
+8,Northern                                          ,QUICK-Stop,1998,January,245,3812.699996
+2,Eastern                                           ,Que Delícia,1998,March,59,1353.6
+8,Northern                                          ,Queen Cozinha,1998,March,66,1119.9
+6,Western                                           ,Queen Cozinha,1998,February,25,537.5
+8,Northern                                          ,Queen Cozinha,1998,May,72,2027.079986
+4,Eastern                                           ,Queen Cozinha,1998,February,85,768.75
+7,Western                                           ,Queen Cozinha,1998,February,92,1920.599999
+6,Western                                           ,Rancho grande,1998,April,5,76
+1,Eastern                                           ,Rancho grande,1998,February,32,686.7
+9,Northern                                          ,Rancho grande,1998,January,7,932
+2,Eastern                                           ,Rattlesnake Canyon Grocery,1998,April,85,903.75
+1,Eastern                                           ,Rattlesnake Canyon Grocery,1998,May,72,1255.720499
+3,Southern                                          ,Rattlesnake Canyon Grocery,1998,March,100,3574.799997
+9,Northern                                          ,Rattlesnake Canyon Grocery,1998,February,80,11380
+8,Northern                                          ,Rattlesnake Canyon Grocery,1998,January,71,2984
+3,Southern                                          ,Rattlesnake Canyon Grocery,1998,January,30,1140
+9,Northern                                          ,Reggiani Caseifici,1998,March,28,560
+4,Eastern                                           ,Reggiani Caseifici,1998,April,22,406.3999985
+2,Eastern                                           ,Reggiani Caseifici,1998,April,30,645
+4,Eastern                                           ,Reggiani Caseifici,1998,February,34,663.0999995
+5,Eastern                                           ,Reggiani Caseifici,1998,January,76,1692.799998
+2,Eastern                                           ,Ricardo Adocicados,1998,April,77,1838
+1,Eastern                                           ,Ricardo Adocicados,1998,February,55,1955.125
+5,Eastern                                           ,Ricardo Adocicados,1998,January,67,2602.999998
+1,Eastern                                           ,Ricardo Adocicados,1998,January,47,602.3999993
+8,Northern                                          ,Richter Supermarkt,1998,May,42,498.0999965
+7,Western                                           ,Richter Supermarkt,1998,April,106,3232.799995
+9,Northern                                          ,Richter Supermarkt,1998,March,71,458.7549996
+4,Eastern                                           ,Richter Supermarkt,1998,March,72,799.1999985
+4,Eastern                                           ,Romero y tomillo,1998,March,11,365.89
+2,Eastern                                           ,Romero y tomillo,1998,April,36,361
+2,Eastern                                           ,Santé Gourmet,1998,April,33,622.35
+1,Eastern                                           ,Santé Gourmet,1998,February,32,670
+3,Southern                                          ,Santé Gourmet,1998,January,27,2684.4
+7,Western                                           ,Save-a-lot Markets,1998,April,330,12615.05
+1,Eastern                                           ,Save-a-lot Markets,1998,May,173,4330.399994
+6,Western                                           ,Save-a-lot Markets,1998,April,182,2393.5
+7,Western                                           ,Save-a-lot Markets,1998,March,204,4011.75
+2,Eastern                                           ,Save-a-lot Markets,1998,March,99,720.899997
+1,Eastern                                           ,Save-a-lot Markets,1998,February,198,2753.099998
+4,Eastern                                           ,Save-a-lot Markets,1998,February,77,892.6399962
+4,Eastern                                           ,Save-a-lot Markets,1998,January,288,4931.919982
+1,Eastern                                           ,Save-a-lot Markets,1998,March,115,1809.75
+2,Eastern                                           ,Save-a-lot Markets,1998,January,16,40
+4,Eastern                                           ,Save-a-lot Markets,1998,April,135,1811.099996
+5,Eastern                                           ,Seven Seas Imports,1998,February,120,1630
+7,Western                                           ,Simons bistro,1998,May,14,232.0849998
+3,Southern                                          ,Split Rail Beer & Ale,1998,March,10,439
+1,Eastern                                           ,Split Rail Beer & Ale,1998,January,26,678
+5,Eastern                                           ,Spécialités du monde,1998,April,10,210
+3,Southern                                          ,Spécialités du monde,1998,March,21,2052.5
+6,Western                                           ,Spécialités du monde,1998,February,14,108.5
+2,Eastern                                           ,Suprêmes délices,1998,April,110,1754.5
+1,Eastern                                           ,Suprêmes délices,1998,April,37,732.5999997
+4,Eastern                                           ,Suprêmes délices,1998,March,116,2255.499997
+6,Western                                           ,Suprêmes délices,1998,February,87,1209
+2,Eastern                                           ,Suprêmes délices,1998,January,71,1112
+5,Eastern                                           ,Suprêmes délices,1998,January,111,4581
+1,Eastern                                           ,The Big Cheese,1998,April,2,69.6
+3,Southern                                          ,The Cracker Box,1998,April,24,326
+2,Eastern                                           ,Toms Spezialitäten,1998,March,52,910.4
+1,Eastern                                           ,Tortuga Restaurante,1998,May,20,360
+2,Eastern                                           ,Tortuga Restaurante,1998,February,50,539.5
+1,Eastern                                           ,Tortuga Restaurante,1998,January,52,975
+3,Southern                                          ,Tradição Hipermercados,1998,January,45,827.5499986
+1,Eastern                                           ,Tradição Hipermercados,1998,January,28,1432.713999
+4,Eastern                                           ,Tradição Hipermercados,1998,January,88,1974
+6,Western                                           ,Trail's Head Gourmet Provisioners,1998,January,9,237.9
+1,Eastern                                           ,Vaffeljernet,1998,March,140,3343.5
+2,Eastern                                           ,Vaffeljernet,1998,April,18,940.4999993
+1,Eastern                                           ,Victuailles en stock,1998,January,54,628.9999956
+4,Eastern                                           ,Victuailles en stock,1998,January,4,159
+3,Southern                                          ,Victuailles en stock,1998,January,78,1788.449989
+6,Western                                           ,Wartian Herkku,1998,April,30,269.9999996
+4,Eastern                                           ,Wellington Importadora,1998,March,33,619.5
+1,Eastern                                           ,Wellington Importadora,1998,February,3,33.75
+9,Northern                                          ,Wellington Importadora,1998,February,20,341.9999997
+7,Western                                           ,Wellington Importadora,1998,January,20,140
+3,Southern                                          ,White Clover Markets,1998,February,50,1924.25
+4,Eastern                                           ,White Clover Markets,1998,January,140,3523.4
+7,Western                                           ,White Clover Markets,1998,May,80,928.75
+2,Eastern                                           ,White Clover Markets,1998,April,90,8902.5
+1,Eastern                                           ,Wilman Kala,1998,February,27,452.9
+4,Eastern                                           ,Wilman Kala,1998,February,23,336.8
+3,Southern                                          ,Wilman Kala,1998,February,32,611.3
+2,Eastern                                           ,Wilman Kala,1998,April,12,586
+4,Eastern                                           ,Wolski  Zajazd,1998,February,15,427.5
+4,Eastern                                           ,Wolski  Zajazd,1998,April,12,591.6
+8,Northern                                          ,Wolski  Zajazd,1998,April,69,686
+5,Eastern                                           ,Wolski  Zajazd,1998,February,5,160
