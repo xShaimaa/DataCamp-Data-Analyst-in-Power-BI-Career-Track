@@ -14,7 +14,7 @@ ___
 
 | Course No.  | Project |
 | ---		  | ----    |
-| 01		  | [Introduction to Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/01-Introduction-to-Power-BI/) 							|
+| 01		  | [Introduction to Power BI](../DataCamp-Power-BI-Fundamentals-Skill-Track/01-Introduction-to-Power-BI/) 							|
 | 02 		  | [Introduction to DAX in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track02-Introduction-to-DAX-in-Power-BI) 				|
 | 03 		  | [Data Visualization in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/03-Data-Visualization-in-Power-BI/)					|
 | 05 		  | [Data Preparation in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/05-Data-Preparation-in-Power-BI/) 					|
