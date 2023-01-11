@@ -1,0 +1,2 @@
+Course 3 is part of Power BI Fudamentals Skill Track and all of its exercises can be found here
+[Data Visualization in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/03-Data-Visualization-in-Power-BI/) 
