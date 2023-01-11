@@ -14,12 +14,12 @@ ___
 
 | Course No.  | Project |
 | ---		  | ----    |
-| 01		  | [Introduction to Power BI](../DataCamp-Power-BI-Fundamentals-Skill-Track/01-Introduction-to-Power-BI/) 							|
-| 02 		  | [Introduction to DAX in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track02-Introduction-to-DAX-in-Power-BI) 				|
-| 03 		  | [Data Visualization in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/03-Data-Visualization-in-Power-BI/)					|
-| 05 		  | [Data Preparation in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/05-Data-Preparation-in-Power-BI/) 					|
+| 01		  | [Introduction to Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/tree/master/01-Introduction-to-Power-BI/) 							|
+| 02 		  | [Introduction to DAX in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/tree/master/02-Introduction-to-DAX-in-Power-BI) 				|
+| 03 		  | [Data Visualization in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/tree/master/03-Data-Visualization-in-Power-BI/)					|
+| 05 		  | [Data Preparation in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/tree/master/05-Data-Preparation-in-Power-BI/) 					|
 | 06 		  | [Data Transformation in Power BI](/06-Data-Transformation-in-Power-BI/) 																					|
-| 07 		  | [Data Modeling in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/07-Data-Modeling-in-Power-BI/) 							|
+| 07 		  | [Data Modeling in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/tree/master/07-Data-Modeling-in-Power-BI/) 							|
 | 08		  | [Intermediate Data Modeling in Power BI](/08-Intermediate-Data-Modeling-in-Power-BI/) 																		|
 | 10 		  | [DAX Functions in Power BI](/10-DAX-Functions-in-Power-BI/) 																								|
 | 17 		  | [Data Connections in Power BI](/17-Data-Connections-in-Power-BI/)																							|

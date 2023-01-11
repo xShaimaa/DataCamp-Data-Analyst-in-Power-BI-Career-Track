@@ -1,2 +1,2 @@
 Course 1 is part of Power BI Fudamentals Skill Track and all of its exercises can be found here
-[Introduction to Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/01-Introduction-to-Power-BI/) 
+[Introduction to Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/tree/master/01-Introduction-to-Power-BI/) 

@@ -1,2 +1,2 @@
 Course 2 is part of Power BI Fudamentals Skill Track and all of its exercises can be found here
-[Introduction to DAX in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/02-Introduction-to-DAX-in-Power-BI/) 
+[Introduction to DAX in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/tree/master/02-Introduction-to-DAX-in-Power-BI/) 

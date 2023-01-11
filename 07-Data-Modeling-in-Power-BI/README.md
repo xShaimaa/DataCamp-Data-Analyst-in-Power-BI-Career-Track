@@ -1,2 +1,2 @@
 Course 7 is part of Power BI Fudamentals Skill Track and all of its exercises can be found here
-[Data Modeling in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/06-Data-Modeling-in-Power-BI) 
+[Data Modeling in Power BI](https://github.com/xShaimaa/DataCamp-Power-BI-Fundamentals-Skill-Track/tree/master/06-Data-Modeling-in-Power-BI) 
